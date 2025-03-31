@@ -94,10 +94,10 @@ public class CourseController {
         return "UP";
     }
 
-    // A welcome endpoint to display a custom greeting message
-    @GetMapping("/welcome")
-    public String greetings() {
-        // Returns a greeting message
-        return "Hello Techie , AWS CICD Example working fine !";
-    }
-}
+//     // A welcome endpoint to display a custom greeting message
+//     @GetMapping("/welcome")
+//     public String greetings() {
+//         // Returns a greeting message
+//         return "Hello Techie , AWS CICD Example working fine !";
+//     }
+// }
